@@ -13,10 +13,16 @@ VaultVision is an all-in-one personal finance management app built with Kotlin u
 
 📊 Visual graphs to analyze trends
 
-🔔 Budget notifications to stay on track
+🔔 Budget notifications to stay on track 
 
 ⚙ Customizable settings for a personal touch
 
+💾 Built using SharedPreferences for secure local data storage
+
+VaultVision is about empowering users to take control of their finances – anytime, anywhere.
+
+
+Screenshots:
 
 ![WhatsApp Image 2025-05-16 at 17 08 57_38023e4b](https://github.com/user-attachments/assets/820dcc68-1564-4915-89bc-9f7363473294)
 ![WhatsApp Image 2025-05-16 at 17 08 57_4e531281](https://github.com/user-attachments/assets/ff9a59c9-e2db-4f45-9b16-c733e8ad7480)
@@ -30,10 +36,6 @@ VaultVision is an all-in-one personal finance management app built with Kotlin u
 ![WhatsApp Image 2025-05-16 at 17 08 52_e19f0589](https://github.com/user-attachments/assets/b4971207-265f-427e-b491-69ef7ff49883)
 ![WhatsApp Image 2025-05-16 at 17 08 52_c914f9e1](https://github.com/user-attachments/assets/cf95825e-8c46-4795-aa34-2536d6ab3aa1)
 ![WhatsApp Image 2025-05-16 at 17 08 52_71fb7f14](https://github.com/user-attachments/assets/b9035b92-3d37-4a21-8f87-0648eaeb4f01)
-
-💾 Built using SharedPreferences for secure local data storage
-
-VaultVision is about empowering users to take control of their finances – anytime, anywhere.
 
 
 
