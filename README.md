@@ -45,7 +45,7 @@
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/PasidiSarangi/VaultVision
+   git clone https://github.com/PasidiSarangi/VaultVision.git
 
 
 
