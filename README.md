@@ -41,11 +41,6 @@
 ![WhatsApp Image 2025-05-16 at 17 08 52_71fb7f14](https://github.com/user-attachments/assets/3d853821-d108-4e67-ac7e-2e443321a0f6)
 
 
-## 📦 Installation
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/PasidiSarangi/VaultVision.git
 
 
 
